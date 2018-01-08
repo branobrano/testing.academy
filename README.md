@@ -5,3 +5,4 @@ project content:
 
 * 'bin/' -binaries
 * 'tests/' -tests
+*new line
